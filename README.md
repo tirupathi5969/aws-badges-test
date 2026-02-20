@@ -1,11 +1,10 @@
-# aws-badges-test
+# aws-badges-test-pipeline
 
-Create status-badges and commit-id badges according to CodeBuild/CodePipeline states. 
-The badges are uploaded to S3 bucket, and then you can link to those badges (SVG files) in your README.md
-
-| Stage | CodeBuild | CodeBuildDeploy | CodePipeline | Commit Id |
-|-------|-----------|-----------------|--------------|-----------|
-| dev | ![Build Status](https://dx-aws-pipeline-badges-images.s3.ca-central-1.amazonaws.com/aws-badges-test.svg) | | ![Pipeline Status](https://dx-aws-pipeline-badges-images.s3.ca-central-1.amazonaws.com/aws-badges-test-pipeline.svg) | ![Commit Id](https://dx-aws-pipeline-badges-images.s3.ca-central-1.amazonaws.com/aws-badges-test-pipeline-commitId.svg) |
-| staging | | | | |
-| uat | | | | |
-| prod | | | | |
+| Stage | Status | Date & Time | Commit Id | Author |
+|-------|--------|------------|-----------|--------|
+| Source | ![Status](https://dx-aws-pipeline-badges-images.s3.ca-central-1.amazonaws.com/aws-badges-test-pipeline-Source.svg) | ![Time](https://dx-aws-pipeline-badges-images.s3.ca-central-1.amazonaws.com/aws-badges-test-pipeline-Source-timestamp.svg) | ![Commit](https://dx-aws-pipeline-badges-images.s3.ca-central-1.amazonaws.com/aws-badges-test-pipeline-Source-commitId.svg) | ![Author](https://dx-aws-pipeline-badges-images.s3.ca-central-1.amazonaws.com/aws-badges-test-pipeline-Source-author.svg) |
+| Build | ![Status](https://dx-aws-pipeline-badges-images.s3.ca-central-1.amazonaws.com/aws-badges-test-pipeline-Build.svg) | ![Time](https://dx-aws-pipeline-badges-images.s3.ca-central-1.amazonaws.com/aws-badges-test-pipeline-Build-timestamp.svg) | ![Commit](https://dx-aws-pipeline-badges-images.s3.ca-central-1.amazonaws.com/aws-badges-test-pipeline-Build-commitId.svg) | ![Author](https://dx-aws-pipeline-badges-images.s3.ca-central-1.amazonaws.com/aws-badges-test-pipeline-Build-author.svg) |
+| DevDeploy | | | | |
+| StagingDeploy | | | | |
+| UATDeploy | | | | |
+| ProductionDeploy | | | | |
