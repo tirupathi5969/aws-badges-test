@@ -37,5 +37,16 @@ graph LR
 *   **Cache Strategy**: Native Camo Purge (Live Image Updates).
 *   **Infrastructure**: AWS Lambda + CloudWatch Events.
 
+
+
+========
+
+
+graph LR
+    S((Source)) --> B(Build) --> D(Dev) --> ST(Staging) --> U(UAT) --> P((Production))
+    
+    style S fill:#f3f4f6,stroke:#333
+    style P fill:#f3f4f6,stroke:#333
+
 ---
 <sub>*Status badges are updated automatically on every pipeline state change.*</sub>
