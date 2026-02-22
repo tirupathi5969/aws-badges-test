@@ -16,5 +16,18 @@
 # aws-badges-test-pipeline
 🚀 **[View Live Real-Time Pipeline Dashboard](https://dsikuhnjgrtfw.cloudfront.net/)**
 
-#testing
+==========
+
+
+# aws-badges-test-pipeline
+
+| Stage | Status | Node | Date & Time | Commit Id | Author |
+|-------|--------|------|-------------|-----------|--------|
+| **Source** | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Source.svg) | - | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Source-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Source-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Source-author.svg) |
+| **Build** | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Build.svg) | ![Node](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Build-node.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Build-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Build-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Build-author.svg) |
+| **DevDeploy** | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-DevDeploy.svg) | ![Node](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-DevDeploy-node.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-DevDeploy-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-DevDeploy-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-DevDeploy-author.svg) |
+| **StagingDeploy** | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-StagingDeploy.svg) | ![Node](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-StagingDeploy-node.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-StagingDeploy-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-StagingDeploy-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-StagingDeploy-author.svg) |
+| **UATDeploy** | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy.svg) | ![Node](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy-node.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy-author.svg) |
+| **ProdDeploy** | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy.svg) | ![Node](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy-node.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy-author.svg) |
+
 
