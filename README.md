@@ -12,3 +12,7 @@
 | **UATDeploy** | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy.svg) | ![Node](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy-node.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy-author.svg) |
 | **ProdDeploy** | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy.svg) | ![Node](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy-node.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy-author.svg) |
 
+
+# aws-badges-test-pipeline
+🚀 **[View Live Real-Time Pipeline Dashboard](https://dsikuhnjgrtfw.cloudfront.net/)**
+
