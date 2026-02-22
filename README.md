@@ -42,11 +42,30 @@ graph LR
 ========
 
 
+# 🚀 AWS CI/CD Pipeline Status
+
+> **Real-time pipeline monitoring for `aws-badges-test-pipeline`**
+> 
+> This dashboard provides a live, visual representation of the current state of our deployment pipeline across all environments.
+
+### 📉 Pipeline Architecture
+```mermaid
 graph LR
     S((Source)) --> B(Build) --> D(Dev) --> ST(Staging) --> U(UAT) --> P((Production))
     
     style S fill:#f3f4f6,stroke:#333
     style P fill:#f3f4f6,stroke:#333
 
----
-<sub>*Status badges are updated automatically on every pipeline state change.*</sub>
+
+📊 Live Stage Monitoring
+Stage	Activity	Current Status	Last Updated	👤 Author
+01. Source	📡 Listener			
+02. Build	🏗️ Compile			
+03. Dev	🧪 Deploy			
+04. Staging	🚀 Deploy			
+05. UAT	🚥 Review			
+06. Production	💎 Live			
+🛡️ Deployment Security & Logs
+Infrastructure: AWS Lambda + CloudWatch Events.
+Storage: Private S3 Bucket with CloudFront Origin Access Control (OAC).
+Performance: Native Camo Purge Protocol for instant GitHub refresh.
