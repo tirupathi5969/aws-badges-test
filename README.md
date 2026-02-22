@@ -41,7 +41,6 @@ graph LR
 
 ========
 
-
 # 🚀 AWS CI/CD Pipeline Status
 
 > **Real-time pipeline monitoring for `aws-badges-test-pipeline`**
@@ -60,14 +59,14 @@ graph LR
 
 ### 📊 Live Stage Monitoring
 
-| Stage | Activity | Current Status | Last Updated | 👤 Author |
-| :--- | :--- | :--- | :--- | :--- |
-| **01. Source** | 📡 Listener | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Source.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Source-timestamp.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Source-author.svg) |
-| **02. Build** | 🏗️ Compile | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Build.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Build-timestamp.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Build-author.svg) |
-| **03. Dev** | 🧪 Deploy | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-DevDeploy.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-DevDeploy-timestamp.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-DevDeploy-author.svg) |
-| **04. Staging** | 🚀 Deploy | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-StagingDeploy.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-StagingDeploy-timestamp.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-StagingDeploy-author.svg) |
-| **05. UAT** | 🚥 Review | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy-timestamp.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy-author.svg) |
-| **06. Production** | 💎 Live | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy-timestamp.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy-author.svg) |
+| Stage | Activity | Current Status | Last Updated | � Commit | �👤 Author |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **01. Source** | 📡 Listener | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Source.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Source-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Source-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Source-author.svg) |
+| **02. Build** | 🏗️ Compile | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Build.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Build-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Build-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-Build-author.svg) |
+| **03. Dev** | 🧪 Deploy | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-DevDeploy.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-DevDeploy-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-DevDeploy-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-DevDeploy-author.svg) |
+| **04. Staging** | 🚀 Deploy | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-StagingDeploy.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-StagingDeploy-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-StagingDeploy-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-StagingDeploy-author.svg) |
+| **05. UAT** | 🚥 Review | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-UATDeploy-author.svg) |
+| **06. Production** | 💎 Live | ![Status](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy.svg) | ![Time](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy-timestamp.svg) | ![Commit](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy-commitId.svg) | ![Author](https://dsikuhnjgrtfw.cloudfront.net/test-badges-1-Pipeline-kndYpoWCdWZw-ProductionDeploy-author.svg) |
 
 ---
 
@@ -78,3 +77,4 @@ graph LR
 
 ---
 <sub>*Status badges feature live **animated progress bars** during active deployments.*</sub>
+
