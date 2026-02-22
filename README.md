@@ -1,8 +1,7 @@
-# 🚀 AWS CI/CD Pipeline Status
+# 🚀 aws-badges-test | CI/CD Dashboard
 
-> **Real-time pipeline monitoring for `aws-badges-test-pipeline`**
-> 
-> This dashboard provides a live, visual representation of the current state of our deployment pipeline across all environments.
+> **Real-time Deployment Monitoring**
+> This dashboard provides a live, visual representation of the current state of our deployment pipeline for this microservice.
 
 ### 📉 Pipeline Architecture
 
@@ -27,10 +26,10 @@ graph LR
 
 ---
 
-### 🛡️ Deployment Security & Logs
-*   **Infrastructure**: AWS Lambda + CloudWatch Events.
-*   **Storage**: Private S3 Bucket with CloudFront Origin Access Control (OAC).
-*   **Performance**: Native Camo Purge Protocol for instant GitHub refresh.
+### 🛡️ Smart Infrastructure
+*   **Discovery**: Automatic repository & README mapping via AWS API.
+*   **Performance**: Native Camo Purge Protocol for sub-second updates.
+*   **Security**: Private S3 storage via CloudFront OAC.
 
 ---
 <sub>*Status badges feature live **animated progress bars** during active deployments.*</sub>
